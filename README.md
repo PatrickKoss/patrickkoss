@@ -1,17 +1,22 @@
 ### :woman_technologist: &nbsp;About Me :
-Hello there! I'm a dedicated and highly skilled Backend Software Engineer with a strong passion for Distributed Systems and Cloud-Native Development. I take pride in my ability to design and implement efficient, scalable, and resilient software solutions that harness the power of cutting-edge technologies.
+Hello there! I’m a passionate and results-driven software leader with deep expertise in Distributed Systems and Cloud-Native Development. My mission is to build not just exceptional software but also the high-performing teams and cultures that make innovation thrive.
 
-Throughout my career, I've honed my expertise in a variety of programming languages and frameworks, consistently adapting to the latest industry trends. I excel in collaborating with cross-functional teams, ensuring that projects are delivered on time and exceed client expectations.
+What I Bring to the Table:
+🚀 Engineering Culture & Standards: I excel at fostering environments where engineering teams can thrive by implementing robust standards, reusable blueprints, and best practices that ensure both creativity and consistency.
 
-My key areas of expertise include: <br>
-✅ Backend Development (Go, Python, Rust) <br>
-✅ Distributed Systems (Microservices, Service Mesh, Message Queues) <br>
-✅ Cloud-Native Technologies (Kubernetes, Docker, Serverless) <br>
-✅ Scalable & High-Performance Systems <br>
-✅ Continuous Integration & Deployment (CI/CD) <br>
-✅ Agile Methodologies (Scrum, Kanban) <br>
+📋 From Vision to Execution: I have a proven track record of translating complex requirements into actionable plans. From shaping epics, features, and user stories to designing software architectures that empower teams to work in parallel, I drive projects to successful and timely delivery.
 
-As a lifelong learner, I constantly strive to expand my knowledge and skills, and I am eager to contribute to innovative projects that challenge the status quo. If you're looking for a creative, adaptable, and results-driven software engineer with a passion for distributed systems and cloud-native development, feel free to connect with me or send me a message. Let's make a difference together!
+📈 Mentoring & Growth: I am passionate about leveling up engineers, teaching them to craft complex, maintainable, and high-performance software systems. Whether through code structure, architecture, or process, I ensure teams are equipped to build resilient and scalable solutions.
+
+Areas of Expertise:   
+✅ Distributed Systems & Microservices (Service Mesh, Message Queues)   
+✅ Cloud-Native Technologies (Kubernetes, Docker, Serverless)   
+✅ Backend Development (Go, Python, Rust)   
+✅ High-Performance & Scalable Systems   
+✅ CI/CD & DevOps Practices   
+✅ Agile Leadership (Scrum, Kanban)   
+
+I’m a lifelong learner who thrives on tackling complex challenges, driving innovation, and creating systems that stand the test of time. If you're looking for a seasoned software engineer and leader to shape engineering culture, architect scalable systems, and elevate your team’s capabilities, let’s connect. Together, we can build the future.
 
 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-me-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-koss-a129071a1) <br>
 ---
@@ -51,21 +56,22 @@ How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-me-blue
 ---
 
 ### ✍️ Blog Posts :
-- [From Vim Frustration to Neovim Nirvana: How NvChad Revolutionized My Coding Experience!](https://medium.com/@patrickkoss/from-vim-frustration-to-neovim-nirvana-how-nvchad-revolutionized-my-coding-experience-800ea96bd070)
-- [Should You Use Rust in the Backend?](https://medium.com/@patrickkoss/should-you-use-rust-in-the-backend-e5590563a842)
-- [Unlock the Secrets to Kubernetes Mastery: Deploy, Scale, and Secure Your Apps Like a Pro!](https://medium.com/@patrickkoss/unlock-the-secrets-to-kubernetes-mastery-deploy-scale-and-secure-your-apps-like-a-pro-770656faaab6)
-- [A Practical Approach to Navigating the Murky Waters of SOLID Principles](https://medium.com/@patrickkoss/a-practical-approach-to-navigating-the-murky-waters-of-solid-principles-10db3e8c5772)
 - [Bring in light into your Rust Application](https://medium.com/@patrickkoss/bring-in-light-into-your-rust-application-cb0a46bfc3dc)
 - [Maximizing Rust Performance: A Comparative Analysis of Compiler Optimizations](https://medium.com/@patrickkoss/maximizing-rust-performance-a-comparative-analysis-of-compiler-optimizations-813bee3852fd)
 - [Choosing the Right Open-Source FaaS Platform: A Comparative Guide](https://medium.com/@patrickkoss/choosing-the-right-open-source-faas-platform-a-comparative-guide-3da55be0a7fa)
-- [Embracing the Bazel Journey: Insights into its Advantages and Pitfalls](https://medium.com/@patrickkoss/embracing-the-bazel-journey-insights-into-its-advantages-and-pitfalls-ea73eda02869)
-- [Bazel in Action: A Journey Through Efficient Builds in Go](https://medium.com/@patrickkoss/bazel-in-action-a-journey-through-efficient-builds-in-go-a0be96978cfb)
-- [Bridging REST and gRPC with gRPC Gateway in Golang: An Illustrative Guide](https://medium.com/@patrickkoss/bridging-rest-and-grpc-with-grpc-gateway-in-golang-an-illustrative-guide-afb4e2f02975)
 - [A Tech Lead’s Insight: Clean Architecture in Golang Webservices](https://medium.com/@patrickkoss/a-tech-leads-insight-clean-architecture-in-golang-webservices-a4cd9680283)
-- [Evolving Code Craftsmanship: Embracing AI in Unit Test Creation](https://medium.com/@patrickkoss/evolving-code-craftsmanship-embracing-ai-in-unit-test-creation-c02243e461f0)
-- [Daily Habits to Fast-Track Your Journey to Senior Software Engineer](https://medium.com/@patrickkoss/daily-habits-to-fast-track-your-journey-to-senior-software-engineer-bd7ed34c7475)https://medium.com/@patrickkoss/daily-habits-to-fast-track-your-journey-to-senior-software-engineer-bd7ed34c7475)
 - [Avoiding the Trap of Lost Updates in Concurrent Systems](https://medium.com/@patrickkoss/avoiding-the-trap-of-lost-updates-in-concurrent-systems-2446ddbbd171)
 - [Architecting Success: A Comprehensive Guide to Robust Architecture Decision Records](https://medium.com/@patrickkoss/architecting-success-a-comprehensive-guide-to-robust-architecture-decision-records-4c18e6888ba1)
 - [Vows, Rings, and Distributed Transactions: A Microservices Marriage Ceremony](https://medium.com/better-programming/ensuring-data-consistency-across-microservices-challenges-and-solutions-40dc416bd6be)
 - [Building an Enterprise-Grade REST API in Rust](https://medium.com/@patrickkoss/building-an-enterprise-grade-rest-api-in-rust-1ac693f47452)
 - [Indexing — DBs Oversimplified: Theory and Implementation](https://medium.com/@patrickkoss/indexing-dbs-oversimplified-theory-and-implementation-473606baa4b5)
+- [Encoding — DBs Oversimplified: Theory and Implementation](https://medium.com/@patrickkoss/encoding-dbs-oversimplified-theory-and-implementation-7cdd29cc7353?sk=aeeb904e65852b5a38b0884e9d0a1ae4)
+- [Replication — DBs Oversimplified: Theory and Implementation](https://medium.com/@patrickkoss/replication-dbs-oversimplified-theory-and-implementation-c4a652924a24?sk=35508cfd8657f96fc1790c477e2099ad)
+- [Partitioning — DBs Oversimplified: Theory and Implementation](https://medium.com/@patrickkoss/partitioning-dbs-oversimplified-theory-and-implementation-026442481792?sk=2b18614672b0362ca355755cc7a4ede0)
+- [Transactions — DBs Oversimplified: Theory and Implementation](https://medium.com/@patrickkoss/transactions-dbs-oversimplified-theory-and-implementation-a99dfa2a26d9?sk=9797645aeb19941e9e66919c4a80c114)
+- [Consistency and Consensus — DBs Oversimplified: Theory and Implementation](https://medium.com/@patrickkoss/consistency-and-consensus-dbs-oversimplified-theory-and-implementation-bc4d3e794cfe?sk=642772648b5019642d9db86b3c5fb1a2)
+- [Don’t build a Distributed System if you don’t understand these Issues](https://medium.com/@patrickkoss/dont-build-a-distributed-system-if-you-don-t-understand-these-issues-2ae5d60bdad7?sk=6acd28e6ec1d7a0f2c346ff161e5d3a1)
+- [Everyone loves to talk about Architecture, few mean Code Architecture](https://medium.com/@patrickkoss/everyone-loves-to-talk-about-architecture-few-mean-code-architecture-68054b91810e?sk=ce575012a2c4a4e18ec234bda08b6e42)
+- [How to Make Faster CI/CD Pipelines](https://medium.com/@patrickkoss/how-to-make-faster-ci-cd-pipelines-adfdb7f2f9f9?sk=43ef96ca8aa53d697bc934efdd8dd186)
+- [Streamlining LLMs with a GenAI Gateway](https://medium.com/@patrickkoss/streamlining-llms-with-a-genai-gateway-2a4a241c031b?sk=084297f85eb14162c99fbe8d92176636)
+- [Building High-Performance Teams](https://medium.com/@patrickkoss/building-high-performance-teams-224f0ce0e155?sk=27a56f96b2e975fc37949f1cebc91e24)
