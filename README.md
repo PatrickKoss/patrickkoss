@@ -2,6 +2,7 @@
 Hello there! I’m a passionate and results-driven software leader with deep expertise in Distributed Systems and Cloud-Native Development. My mission is to build not just exceptional software but also the high-performing teams and cultures that make innovation thrive.
 
 What I Bring to the Table:
+
 🚀 Engineering Culture & Standards: I excel at fostering environments where engineering teams can thrive by implementing robust standards, reusable blueprints, and best practices that ensure both creativity and consistency.
 
 📋 From Vision to Execution: I have a proven track record of translating complex requirements into actionable plans. From shaping epics, features, and user stories to designing software architectures that empower teams to work in parallel, I drive projects to successful and timely delivery.
